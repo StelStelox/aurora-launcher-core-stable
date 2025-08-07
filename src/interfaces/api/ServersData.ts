@@ -1,4 +1,4 @@
-import * as proto from "@aurora-launcher/proto";
+import * as proto from "@aurora-launcher-arsland-team/proto";
 
 export type Server = proto.Server;
 
